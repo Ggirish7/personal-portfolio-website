@@ -616,6 +616,7 @@ section {
 }
 .contact-content-con .right-contact .submit-btn {
   display: flex;
+  padding: 0.8rem 1.1rem;
   justify-content: flex-start;
 }
 
